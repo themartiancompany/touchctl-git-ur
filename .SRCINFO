@@ -1,0 +1,20 @@
+pkgbase = touchctl-git
+	pkgdesc = Touch control
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.r0.g03c6ea80a438c902f60d8370f3d0c253fab0d322
+	pkgrel = 1
+	url = https://github.com/themartiancompany/touchctl
+	arch = any
+	groups = hip
+	groups = hip-git
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = make
+	makedepends = curl
+	makedepends = jq
+	depends = libcrash-bash
+	provides = touchctl=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.r0.g03c6ea80a438c902f60d8370f3d0c253fab0d322
+	conflicts = touchctl
+	source = touchctl.tar.gz::https://github.com/themartiancompany/touchctl/archive/refs/heads/master.tar.gz
+	sha256sums = SKIP
+
+pkgname = touchctl-git
