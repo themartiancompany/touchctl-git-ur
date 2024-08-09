@@ -8,7 +8,7 @@ _local=false
 _proj="hip"
 _pkgname=touchctl
 pkgname="${_pkgname}-git"
-pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1".r0.g"03c6ea80a438c902f60d8370f3d0c253fab0d322"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1".r3.g"830ea572a4e34052f7b5f675390ede9517484e3d"
 pkgrel=1
 _pkgdesc=(
   "Touch control"
